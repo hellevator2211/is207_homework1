@@ -1,0 +1,53 @@
+html *
+{
+   font-family: Arial !important;
+}
+table {
+    margin-left: auto;
+  margin-right: auto;
+}
+
+.selected {
+    color: #07dbc6;
+    
+}
+
+h1,h2,h3 {
+    color: #07dbc6;
+}
+
+#mainheader {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+#nametable {
+    margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+th,td {
+    padding: 25px;
+}
+#uni {
+    width: 30%;
+}
+
+#github {
+    margin:0 auto;
+    text-align: center;
+}
+
+button {
+    color: white;
+    background-color: #07dbc6;
+    border: none;
+    padding: 12px;
+    border-radius: 8px;
+}
+#Experiencetab {
+    background-color: #fcf8bb;
+}
